@@ -1,7 +1,7 @@
 {
   "name": "expo-google-app-auth",
-  "version": "8.3.0",
-  "description": "Provides a wrapper around expo-app-auth for Google sign in.",
+  "version": "10.0.0",
+  "description": "Deprecated wrapper around expo-app-auth for Google sign in.",
   "main": "build/Google.js",
   "types": "build/Google.d.ts",
   "sideEffects": false,
@@ -15,9 +15,6 @@
     "expo-module": "expo-module"
   },
   "keywords": [
-    "react-native",
-    "expo",
-    "google"
   ],
   "repository": {
     "type": "git",
