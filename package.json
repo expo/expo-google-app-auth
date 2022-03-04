@@ -28,7 +28,7 @@
   },
   "author": "650 Industries, Inc.",
   "license": "MIT",
-  "homepage": "https://docs.expo.dev/versions/latest/sdk/google/",
+  "homepage": "https://github.com/expo/expo-google-app-auth/",
   "jest": {
     "preset": "expo-module-scripts"
   },
